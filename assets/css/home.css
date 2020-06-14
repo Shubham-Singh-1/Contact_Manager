@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 24px;
+    color: grey;
+    font-family: sans-serif;
+}
+
+.contact .details{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    align-items: center;
+}
+
+.contact .delete-button{
+    width: 10%;
+}
+
+#contacts-list-container{
+    text-align: center;
+}
