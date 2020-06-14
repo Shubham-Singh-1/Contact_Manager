@@ -1,0 +1,5 @@
+# Contact_Manager
+for Managing contacts using mongodb as database
+
+A very basic Application for contact create,Read,Update and Delete( basically CDRD ;:) )...Similar to TODO App or Daily Diary
+but more dynamic...and functional
